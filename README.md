@@ -12,7 +12,7 @@ const App = () => {
   return (
     <div className="App">
       <h1>React Rocks!</h1>
-      <img src="name-of-dog-file-goes-here.jpg"
+      <img src="name-of-dog-file-goes-here.jpg" />
     </div>
   )
 }
